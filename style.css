@@ -440,18 +440,18 @@ body.menu-open {
 }
 
 .hero-bg:nth-child(1) {
-	background-image: url('images/hero1.png');
+	background-image: url('./images/hero1.webp');
 }
 
 .hero-bg:nth-child(2) {
-	background-image: url('images/hero3.jpg');
+	background-image: url('./images/hero3.webp');
 }
 
 .hero-bg:nth-child(3) {
-	background-image: url('images/hero2.png');
+	background-image: url('./images/hero2.webp');
 }
 .hero-bg:nth-child(4) {
-	background-image: url('images/hero4.jpg');
+	background-image: url('./images/hero4.webp');
 }
 
 
